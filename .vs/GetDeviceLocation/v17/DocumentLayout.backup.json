@@ -1,0 +1,140 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\jhiej\\source\\repos\\GetDeviceLocation\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1829F15E-F1BD-4730-9E6A-8A0B80C22061}|GetDeviceLocation.csproj|c:\\users\\jhiej\\source\\repos\\getdevicelocation\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{1829F15E-F1BD-4730-9E6A-8A0B80C22061}|GetDeviceLocation.csproj|solutionrelative:mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1829F15E-F1BD-4730-9E6A-8A0B80C22061}|GetDeviceLocation.csproj|c:\\users\\jhiej\\source\\repos\\getdevicelocation\\models\\viewmodels\\mainpageviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1829F15E-F1BD-4730-9E6A-8A0B80C22061}|GetDeviceLocation.csproj|solutionrelative:models\\viewmodels\\mainpageviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1829F15E-F1BD-4730-9E6A-8A0B80C22061}|GetDeviceLocation.csproj|c:\\users\\jhiej\\source\\repos\\getdevicelocation\\messages\\devicelocationmessage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1829F15E-F1BD-4730-9E6A-8A0B80C22061}|GetDeviceLocation.csproj|solutionrelative:messages\\devicelocationmessage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1829F15E-F1BD-4730-9E6A-8A0B80C22061}|GetDeviceLocation.csproj|c:\\users\\jhiej\\source\\repos\\getdevicelocation\\models\\devicelocation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1829F15E-F1BD-4730-9E6A-8A0B80C22061}|GetDeviceLocation.csproj|solutionrelative:models\\devicelocation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1829F15E-F1BD-4730-9E6A-8A0B80C22061}|GetDeviceLocation.csproj|c:\\users\\jhiej\\source\\repos\\getdevicelocation\\mauiprogram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1829F15E-F1BD-4730-9E6A-8A0B80C22061}|GetDeviceLocation.csproj|solutionrelative:mauiprogram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1829F15E-F1BD-4730-9E6A-8A0B80C22061}|GetDeviceLocation.csproj|c:\\users\\jhiej\\source\\repos\\getdevicelocation\\appshell.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{1829F15E-F1BD-4730-9E6A-8A0B80C22061}|GetDeviceLocation.csproj|solutionrelative:appshell.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1829F15E-F1BD-4730-9E6A-8A0B80C22061}|GetDeviceLocation.csproj|c:\\users\\jhiej\\source\\repos\\getdevicelocation\\services\\locationsyncservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1829F15E-F1BD-4730-9E6A-8A0B80C22061}|GetDeviceLocation.csproj|solutionrelative:services\\locationsyncservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DeviceLocation.cs",
+              "DocumentMoniker": "C:\\Users\\jhiej\\source\\repos\\GetDeviceLocation\\Models\\DeviceLocation.cs",
+              "RelativeDocumentMoniker": "Models\\DeviceLocation.cs",
+              "ToolTip": "C:\\Users\\jhiej\\source\\repos\\GetDeviceLocation\\Models\\DeviceLocation.cs",
+              "RelativeToolTip": "Models\\DeviceLocation.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-01T07:32:49.972Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DeviceLocationMessage.cs",
+              "DocumentMoniker": "C:\\Users\\jhiej\\source\\repos\\GetDeviceLocation\\Messages\\DeviceLocationMessage.cs",
+              "RelativeDocumentMoniker": "Messages\\DeviceLocationMessage.cs",
+              "ToolTip": "C:\\Users\\jhiej\\source\\repos\\GetDeviceLocation\\Messages\\DeviceLocationMessage.cs",
+              "RelativeToolTip": "Messages\\DeviceLocationMessage.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-02T00:22:37.02Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AppShell.xaml",
+              "DocumentMoniker": "C:\\Users\\jhiej\\source\\repos\\GetDeviceLocation\\AppShell.xaml",
+              "RelativeDocumentMoniker": "AppShell.xaml",
+              "ToolTip": "C:\\Users\\jhiej\\source\\repos\\GetDeviceLocation\\AppShell.xaml",
+              "RelativeToolTip": "AppShell.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-10-02T00:20:02.679Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainPage.xaml",
+              "DocumentMoniker": "C:\\Users\\jhiej\\source\\repos\\GetDeviceLocation\\MainPage.xaml",
+              "RelativeDocumentMoniker": "MainPage.xaml",
+              "ToolTip": "C:\\Users\\jhiej\\source\\repos\\GetDeviceLocation\\MainPage.xaml",
+              "RelativeToolTip": "MainPage.xaml",
+              "ViewState": "AgIAACEAAAAAAAAAAAAAADQAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-10-02T00:10:13.755Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MauiProgram.cs",
+              "DocumentMoniker": "C:\\Users\\jhiej\\source\\repos\\GetDeviceLocation\\MauiProgram.cs",
+              "RelativeDocumentMoniker": "MauiProgram.cs",
+              "ToolTip": "C:\\Users\\jhiej\\source\\repos\\GetDeviceLocation\\MauiProgram.cs",
+              "RelativeToolTip": "MauiProgram.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAABNAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-02T00:08:15.753Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainPageViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\jhiej\\source\\repos\\GetDeviceLocation\\Models\\ViewModels\\MainPageViewModel.cs",
+              "RelativeDocumentMoniker": "Models\\ViewModels\\MainPageViewModel.cs",
+              "ToolTip": "C:\\Users\\jhiej\\source\\repos\\GetDeviceLocation\\Models\\ViewModels\\MainPageViewModel.cs",
+              "RelativeToolTip": "Models\\ViewModels\\MainPageViewModel.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAswBgAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-01T23:45:03.269Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "LocationSyncService.cs",
+              "DocumentMoniker": "C:\\Users\\jhiej\\source\\repos\\GetDeviceLocation\\Services\\LocationSyncService.cs",
+              "RelativeDocumentMoniker": "Services\\LocationSyncService.cs",
+              "ToolTip": "C:\\Users\\jhiej\\source\\repos\\GetDeviceLocation\\Services\\LocationSyncService.cs",
+              "RelativeToolTip": "Services\\LocationSyncService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-01T07:10:23.654Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
